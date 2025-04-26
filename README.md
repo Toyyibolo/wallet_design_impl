@@ -1,16 +1,11 @@
-# wallet_design_impl
+# WALLET ANIMATION
 
-A new Flutter project.
+🚀 Just brought the trending wallet animation to life in Flutter! 🔥
+Built it with Rive + Flutter magic — smooth opening, balance reveal, and sleek transitions.
+Feels so satisfying watching it in action! 💸✨
 
-## Getting Started
+# ScreenShots and Screen Record
 
-This project is a starting point for a Flutter application.
+![wallet_design](https://github.com/user-attachments/assets/022a7c37-24dd-483b-b62e-ba58ef47b9db)
+https://github.com/user-attachments/assets/961378c4-f806-4e9b-93f0-c987bec7d674
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
