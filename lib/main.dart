@@ -94,7 +94,7 @@ class _WalletDesignState extends State<WalletDesign> {
                   ),
                 ),
                 Positioned(
-                  left: 175,
+                  left: 170,
                   bottom: 130,
                   child: Text(
                     isOpen ? '\$100000' : '********',
